@@ -25,10 +25,15 @@
 			"name": "Abdul Azeez Al Ahmad",
 			"mp3": "https://archive.org/download/QuranAbdulAzeezAlAhmad128Kbps/001.mp3"
 
+		},
+		"qari_5": {
+			"name": "Mohammed Al-Muhasny",
+			"mp3": "https://archive.org/download/lifeways11_gmail_001_20180216_0028/001.mp3"
+
 		},	
 		
 
-		"qari_5": {
+		"qari_6": {
 			"name": "urdu Translation",
 			"mp3": "https://archive.org/download/Al-Quran-with-Urdu-Translation-Audio-MP3/001%20-%20Al-Fatihah%20%28%20The%20Opening%20%29%20-%20%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp3"
 
